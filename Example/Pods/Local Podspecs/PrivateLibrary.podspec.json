@@ -1,0 +1,22 @@
+{
+  "name": "PrivateLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of PrivateLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/PrivateLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Tien Nguyen": "thanhtien2302@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/PrivateLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PrivateLibrary/Classes/**/*"
+}
